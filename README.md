@@ -1,1 +1,1 @@
-# NeoCharge-Beta
+# NeoCharge Beta App
